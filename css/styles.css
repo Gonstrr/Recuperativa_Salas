@@ -1,0 +1,6 @@
+body {
+    background: url(fondo.png);
+    height: 100vh;
+    background-position: cover;
+    background-size: cover;
+}
